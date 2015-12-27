@@ -144,8 +144,8 @@ set errorformat^=%-G%f:%l:\ warning:%m
 source $HOME/.vim/methods.vim 
 
 "" SnipMate 
-let g:snips_author = 'Dilawar Singh'
-let g:snips_email = 'dilawars@ncbs.res.in'
+let g:snips_author = 'Anushree Narjala'
+let g:snips_email = 'anushreen@ncbs.res.in'
 let g:snippets_dir = '$HOME/.vim/snippets'
 
 let g:snipMate = {}
